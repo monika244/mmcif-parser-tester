@@ -1,0 +1,18 @@
+time and date:
+31.05.2017 22:00
+
+download command:
+rsync -rlpt -v -z --delete --port=33444 rsync.rcsb.org::ftp_data/structures/divided/mmCIF/ ./mmCIF
+
+download duration:
+4h15min
+
+download size:
+35.3GB
+
+download summary:
+sent 2877744 bytes  received 35042478247 bytes  2346761.04 bytes/sec
+total size is 35021768189
+
+folders - 1 060
+structures - 130 599
