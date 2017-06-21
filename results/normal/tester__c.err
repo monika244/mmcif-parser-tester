@@ -1,0 +1,108 @@
+>> START_DIR: ./data/c/c0/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/c0/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/c1/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/c1/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/c2/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/c2/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/c3/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/c3/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/c4/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/c4/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/c5/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/c5/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/c6/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/c6/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/c7/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/c7/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/c8/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/c8/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/c9/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/c9/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/ca/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/ca/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cb/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cb/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cc/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cc/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cd/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cd/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/ce/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/ce/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cf/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cf/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cg/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cg/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/ch/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/ch/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/ci/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/ci/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cj/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cj/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/ck/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/ck/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cl/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cl/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cm/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cm/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cn/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cn/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/co/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/co/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cp/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cp/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cq/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cq/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cr/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cr/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cs/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cs/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/ct/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/ct/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cu/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cu/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cv/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cv/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cw/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cw/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cx/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cx/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cy/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cy/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+
+>> START_DIR: ./data/c/cz/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'>
+>> FINISH_DIR: ./data/c/cz/ PARSER: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+

@@ -1,0 +1,109 @@
+>> START_DIR: ./data/u/u0/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/u0/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/u1/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/u1/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/u2/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/u2/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/u3/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/u3/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/u4/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/u4/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/u5/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/u5/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/u6/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/u6/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/u7/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/u7/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/u8/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/u8/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/u9/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/u9/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/ua/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/ua/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/ub/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/ub/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uc/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uc/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/ud/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+! STR_ID: 4udf |EXC_TYPE: PDBConstructionException |EXC_MSG: Atom C defined twice in residue <Residue LYS het=  resseq=91 icode= >
+>> FINISH_DIR: ./data/u/ud/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/ue/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/ue/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uf/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uf/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/ug/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/ug/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uh/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uh/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/ui/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/ui/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uj/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uj/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uk/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uk/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/ul/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/ul/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/um/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/um/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/un/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/un/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uo/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uo/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/up/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/up/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uq/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uq/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/ur/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/ur/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/us/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/us/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/ut/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/ut/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uu/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uu/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uv/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uv/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uw/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uw/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/ux/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/ux/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uy/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uy/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+
+>> START_DIR: ./data/u/uz/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'>
+>> FINISH_DIR: ./data/u/uz/ PARSER: <class 'Bio.PDB.MMCIFParser.FastMMCIFParser'> 
+

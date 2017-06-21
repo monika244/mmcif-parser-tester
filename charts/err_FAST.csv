@@ -1,0 +1,4 @@
+STR_ID,EXC_TYPE,EXC_MSG
+2bwx,PDBConstructionException,Blank altlocs in duplicate residue CSO (' ', 249, ' ')
+1ejg,PDBConstructionException,Blank altlocs in duplicate residue SER (' ', 22, ' ')
+4udf,PDBConstructionException,Atom C defined twice in residue <Residue LYS het=  resseq=91 icode= >

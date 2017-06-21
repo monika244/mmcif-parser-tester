@@ -1,0 +1,12 @@
+STR_ID,EXC_TYPE,EXC_MSG
+2a9w,ValueError,No closing quotation
+3b3p,ValueError,No closing quotation
+2bwx,PDBConstructionException,Blank altlocs in duplicate residue CSO (' ', 249, ' ')
+3dqt,ValueError,No closing quotation
+1ejg,PDBConstructionException,Blank altlocs in duplicate residue SER (' ', 22, ' ')
+1mom,ValueError,No closing quotation
+1n5m,ValueError,No closing quotation
+3oj3,ValueError,No closing quotation
+1tsl,ValueError,No closing quotation
+4udf,PDBConstructionException,Atom C defined twice in residue <Residue LYS het=  resseq=91 icode= >
+1y59,ValueError,No closing quotation

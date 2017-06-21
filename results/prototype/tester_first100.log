@@ -1,0 +1,997 @@
+parser: <class 'Bio.PDB.MMCIFParser.MMCIFParser'> 
+START
+
+starting ./mmCIF/00/ 
+
+structure: 100d 	length: 88 	time: 0.25922393798828125
+structure: 200d 	length: 38 	time: 0.13410115242004395
+structure: 200l 	length: 272 	time: 0.4311251640319824
+structure: 300d 	length: 47 	time: 0.26787304878234863
+structure: 400d 	length: 47 	time: 0.10837793350219727
+
+finished ./mmCIF/00/ 	time: 1.216789960861206
+
+starting ./mmCIF/01/ 
+
+structure: 101d 	length: 62 	time: 0.22417378425598145
+structure: 101m 	length: 295 	time: 0.46785616874694824
+structure: 201d 	length: 28 	time: 1.3503201007843018
+structure: 201l 	length: 452 	time: 0.7510881423950195
+structure: 301d 	length: 46 	time: 0.35049986839294434
+structure: 401d 	length: 44 	time: 0.1665809154510498
+
+finished ./mmCIF/01/ 	time: 3.343123197555542
+
+starting ./mmCIF/02/ 
+
+structure: 102d 	length: 98 	time: 0.20723986625671387
+structure: 102l 	length: 299 	time: 0.4686901569366455
+structure: 102m 	length: 311 	time: 0.42875003814697266
+structure: 202d 	length: 18 	time: 0.6103370189666748
+structure: 302d 	length: 110 	time: 0.20653104782104492
+structure: 402d 	length: 46 	time: 0.14394807815551758
+
+finished ./mmCIF/02/ 	time: 2.08561372756958
+
+starting ./mmCIF/03/ 
+
+structure: 103d 	length: 24 	time: 0.22652077674865723
+structure: 103l 	length: 290 	time: 0.4036281108856201
+structure: 103m 	length: 272 	time: 0.39279699325561523
+structure: 203d 	length: 17 	time: 5.122087001800537
+structure: 303d 	length: 110 	time: 0.2622029781341553
+structure: 403d 	length: 154 	time: 0.2397150993347168
+
+finished ./mmCIF/03/ 	time: 6.679365158081055
+
+starting ./mmCIF/04/ 
+
+structure: 104d 	length: 24 	time: 0.25632309913635254
+structure: 104l 	length: 360 	time: 0.6925017833709717
+structure: 104m 	length: 335 	time: 0.5167942047119141
+structure: 204d 	length: 17 	time: 5.014371871948242
+structure: 304d 	length: 52 	time: 0.1753530502319336
+structure: 404d 	length: 29 	time: 0.16065096855163574
+
+finished ./mmCIF/04/ 	time: 6.850959062576294
+
+starting ./mmCIF/05/ 
+
+structure: 105d 	length: 12 	time: 0.720660924911499
+structure: 105m 	length: 271 	time: 0.39480090141296387
+structure: 205d 	length: 63 	time: 0.24756121635437012
+structure: 205l 	length: 277 	time: 0.40670299530029297
+structure: 305d 	length: 50 	time: 0.18033194541931152
+structure: 405d 	length: 48 	time: 0.21965885162353516
+
+finished ./mmCIF/05/ 	time: 2.187295913696289
+
+starting ./mmCIF/06/ 
+
+structure: 106d 	length: 12 	time: 0.7194597721099854
+structure: 106m 	length: 300 	time: 0.45682477951049805
+structure: 206d 	length: 31 	time: 0.16279029846191406
+structure: 206l 	length: 302 	time: 0.4364898204803467
+structure: 306d 	length: 72 	time: 0.1126091480255127
+structure: 406d 	length: 68 	time: 1.1082370281219482
+
+finished ./mmCIF/06/ 	time: 3.0136821269989014
+
+starting ./mmCIF/07/ 
+
+structure: 107d 	length: 15 	time: 0.5956361293792725
+structure: 107l 	length: 317 	time: 0.5187802314758301
+structure: 107m 	length: 292 	time: 0.4578859806060791
+structure: 207d 	length: 46 	time: 2.3603551387786865
+structure: 207l 	length: 254 	time: 0.45026683807373047
+structure: 307d 	length: 198 	time: 0.49213218688964844
+structure: 407d 	length: 88 	time: 0.23472905158996582
+
+finished ./mmCIF/07/ 	time: 5.136429786682129
+
+starting ./mmCIF/08/ 
+
+structure: 108d 	length: 17 	time: 6.093559741973877
+structure: 108l 	length: 336 	time: 0.5401878356933594
+structure: 108m 	length: 243 	time: 0.4068291187286377
+structure: 208d 	length: 106 	time: 0.17122912406921387
+structure: 208l 	length: 171 	time: 0.3123922348022461
+structure: 308d 	length: 124 	time: 0.19716286659240723
+structure: 408d 	length: 109 	time: 0.2285449504852295
+
+finished ./mmCIF/08/ 	time: 8.009724855422974
+
+starting ./mmCIF/09/ 
+
+structure: 109d 	length: 116 	time: 0.23494815826416016
+structure: 109l 	length: 318 	time: 0.5163190364837646
+structure: 109m 	length: 354 	time: 0.478665828704834
+structure: 209d 	length: 110 	time: 0.3936581611633301
+structure: 209l 	length: 186 	time: 0.3960709571838379
+structure: 309d 	length: 88 	time: 0.16704201698303223
+structure: 409d 	length: 74 	time: 0.34528207778930664
+
+finished ./mmCIF/09/ 	time: 2.554888963699341
+
+starting ./mmCIF/0g/ 
+
+structure: 10gs 	length: 589 	time: 0.9302222728729248
+structure: 20gs 	length: 521 	time: 0.9010787010192871
+
+finished ./mmCIF/0g/ 	time: 1.8495769500732422
+
+starting ./mmCIF/0m/ 
+
+structure: 10mh 	length: 481 	time: 0.9120051860809326
+
+finished ./mmCIF/0m/ 	time: 0.9176487922668457
+
+starting ./mmCIF/10/ 
+
+structure: 110d 	length: 56 	time: 0.11320328712463379
+structure: 110l 	length: 303 	time: 0.6148312091827393
+structure: 110m 	length: 336 	time: 0.416532039642334
+structure: 210d 	length: 31 	time: 0.08688783645629883
+structure: 210l 	length: 273 	time: 0.40085482597351074
+structure: 310d 	length: 58 	time: 0.31237316131591797
+structure: 410d 	length: 161 	time: 0.19322800636291504
+
+finished ./mmCIF/10/ 	time: 2.1578502655029297
+
+starting ./mmCIF/11/ 
+
+structure: 111d 	length: 86 	time: 0.2198781967163086
+structure: 111l 	length: 325 	time: 0.46579718589782715
+structure: 111m 	length: 311 	time: 0.5094282627105713
+structure: 211d 	length: 31 	time: 0.19880437850952148
+structure: 211l 	length: 298 	time: 0.4059488773345947
+structure: 311d 	length: 102 	time: 0.19216704368591309
+structure: 411d 	length: 78 	time: 0.1719350814819336
+
+finished ./mmCIF/11/ 	time: 2.188009023666382
+
+starting ./mmCIF/12/ 
+
+structure: 112d 	length: 107 	time: 0.20783710479736328
+structure: 112l 	length: 314 	time: 0.5174992084503174
+structure: 112m 	length: 294 	time: 0.39080071449279785
+structure: 212d 	length: 79 	time: 0.14048981666564941
+structure: 212l 	length: 324 	time: 0.4424619674682617
+structure: 312d 	length: 85 	time: 0.1348872184753418
+structure: 412d 	length: 127 	time: 0.1856091022491455
+
+finished ./mmCIF/12/ 	time: 2.0429718494415283
+
+starting ./mmCIF/13/ 
+
+structure: 113d 	length: 96 	time: 0.2145671844482422
+structure: 113l 	length: 315 	time: 0.4059731960296631
+structure: 213d 	length: 123 	time: 0.17882394790649414
+structure: 213l 	length: 238 	time: 0.4118058681488037
+structure: 313d 	length: 71 	time: 0.1305389404296875
+structure: 413d 	length: 50 	time: 0.1389632225036621
+
+finished ./mmCIF/13/ 	time: 1.4951329231262207
+
+starting ./mmCIF/14/ 
+
+structure: 114d 	length: 88 	time: 0.1902141571044922
+structure: 114l 	length: 314 	time: 0.45476722717285156
+structure: 214d 	length: 22 	time: 6.530961751937866
+structure: 214l 	length: 224 	time: 0.4372551441192627
+structure: 314d 	length: 65 	time: 0.1403028964996338
+structure: 414d 	length: 156 	time: 0.29805684089660645
+
+finished ./mmCIF/14/ 	time: 8.08845591545105
+
+starting ./mmCIF/15/ 
+
+structure: 115d 	length: 101 	time: 0.1663222312927246
+structure: 115l 	length: 310 	time: 0.4705820083618164
+structure: 215d 	length: 54 	time: 0.1450519561767578
+structure: 215l 	length: 271 	time: 0.42434096336364746
+structure: 315d 	length: 85 	time: 0.2175757884979248
+
+finished ./mmCIF/15/ 	time: 1.4371929168701172
+
+starting ./mmCIF/16/ 
+
+structure: 116d 	length: 52 	time: 0.1906139850616455
+structure: 216d 	length: 53 	time: 0.11271095275878906
+structure: 216l 	length: 348 	time: 0.7344541549682617
+structure: 316d 	length: 27 	time: 0.21747493743896484
+
+finished ./mmCIF/16/ 	time: 1.2657902240753174
+
+starting ./mmCIF/17/ 
+
+structure: 117d 	length: 45 	time: 0.1428239345550537
+structure: 117e 	length: 1029 	time: 1.3223485946655273
+structure: 217d 	length: 55 	time: 0.11906981468200684
+structure: 217l 	length: 343 	time: 0.5248949527740479
+structure: 317d 	length: 54 	time: 0.11846208572387695
+structure: 417d 	length: 70 	time: 0.1298201084136963
+
+finished ./mmCIF/17/ 	time: 2.3764891624450684
+
+starting ./mmCIF/18/ 
+
+structure: 118d 	length: 50 	time: 0.10495901107788086
+structure: 118l 	length: 334 	time: 0.518388032913208
+structure: 218d 	length: 98 	time: 0.19723987579345703
+structure: 218l 	length: 239 	time: 0.3920459747314453
+structure: 318d 	length: 126 	time: 0.19495511054992676
+structure: 418d 	length: 44 	time: 0.13241004943847656
+
+finished ./mmCIF/18/ 	time: 1.555821180343628
+
+starting ./mmCIF/19/ 
+
+structure: 119d 	length: 162 	time: 0.2363719940185547
+structure: 119l 	length: 327 	time: 0.6518161296844482
+structure: 219d 	length: 20 	time: 0.1691281795501709
+structure: 219l 	length: 292 	time: 0.41238903999328613
+structure: 319d 	length: 113 	time: 0.19037604331970215
+structure: 419d 	length: 95 	time: 0.23650574684143066
+
+finished ./mmCIF/19/ 	time: 1.9216969013214111
+
+starting ./mmCIF/1a/ 
+
+structure: 11as 	length: 740 	time: 1.4673712253570557
+
+finished ./mmCIF/1a/ 	time: 1.4731190204620361
+
+starting ./mmCIF/1b/ 
+
+structure: 11ba 	length: 361 	time: 0.5985300540924072
+structure: 11bg 	length: 384 	time: 0.6169848442077637
+structure: 21bi 	length: 151 	time: 0.3720130920410156
+structure: 31bi 	length: 149 	time: 0.3425877094268799
+structure: 41bi 	length: 151 	time: 0.3323681354522705
+
+finished ./mmCIF/1b/ 	time: 2.278372049331665
+
+starting ./mmCIF/1g/ 
+
+structure: 11gs 	length: 596 	time: 0.9205257892608643
+
+finished ./mmCIF/1g/ 	time: 0.9257936477661133
+
+starting ./mmCIF/20/ 
+
+structure: 120l 	length: 343 	time: 0.4230489730834961
+structure: 220d 	length: 59 	time: 0.13848209381103516
+structure: 220l 	length: 279 	time: 0.40486669540405273
+structure: 320d 	length: 97 	time: 0.17316293716430664
+structure: 420d 	length: 89 	time: 0.25618410110473633
+
+finished ./mmCIF/20/ 	time: 1.4104762077331543
+
+starting ./mmCIF/21/ 
+
+structure: 121d 	length: 72 	time: 0.28557777404785156
+structure: 121p 	length: 363 	time: 0.49452805519104004
+structure: 221d 	length: 105 	time: 0.20648884773254395
+structure: 221l 	length: 300 	time: 0.4650859832763672
+structure: 221p 	length: 378 	time: 0.49182605743408203
+structure: 321d 	length: 108 	time: 0.19816231727600098
+structure: 421d 	length: 74 	time: 0.19457769393920898
+structure: 421p 	length: 370 	time: 0.4709339141845703
+structure: 521p 	length: 168 	time: 0.38633227348327637
+structure: 621p 	length: 394 	time: 0.46805596351623535
+structure: 721p 	length: 359 	time: 0.4527318477630615
+structure: 821p 	length: 286 	time: 0.5747511386871338
+
+finished ./mmCIF/21/ 	time: 4.725726127624512
+
+starting ./mmCIF/22/ 
+
+structure: 122d 	length: 57 	time: 0.19516491889953613
+structure: 122l 	length: 327 	time: 0.4129948616027832
+structure: 222d 	length: 94 	time: 0.20244097709655762
+structure: 222l 	length: 289 	time: 0.41662001609802246
+structure: 322d 	length: 96 	time: 0.20255088806152344
+structure: 422d 	length: 51 	time: 0.18403196334838867
+
+finished ./mmCIF/22/ 	time: 1.634718894958496
+
+starting ./mmCIF/23/ 
+
+structure: 123d 	length: 100 	time: 0.22697710990905762
+structure: 123l 	length: 324 	time: 0.4658212661743164
+structure: 223d 	length: 63 	time: 0.15354371070861816
+structure: 223l 	length: 312 	time: 0.42786717414855957
+structure: 323d 	length: 125 	time: 0.20093011856079102
+structure: 423d 	length: 186 	time: 0.2849760055541992
+
+finished ./mmCIF/23/ 	time: 1.7772951126098633
+
+starting ./mmCIF/24/ 
+
+structure: 124d 	length: 16 	time: 0.16080212593078613
+structure: 224d 	length: 91 	time: 0.1844470500946045
+structure: 224l 	length: 303 	time: 0.4947090148925781
+structure: 324d 	length: 85 	time: 0.1994318962097168
+structure: 424d 	length: 90 	time: 0.49753403663635254
+
+finished ./mmCIF/24/ 	time: 1.5511608123779297
+
+starting ./mmCIF/25/ 
+
+structure: 125l 	length: 326 	time: 0.4448530673980713
+structure: 225d 	length: 24 	time: 0.22788286209106445
+structure: 225l 	length: 302 	time: 0.4497339725494385
+structure: 325d 	length: 111 	time: 0.1924290657043457
+structure: 425d 	length: 32 	time: 0.19303488731384277
+
+finished ./mmCIF/25/ 	time: 1.5217101573944092
+
+starting ./mmCIF/26/ 
+
+structure: 126d 	length: 69 	time: 0.23563194274902344
+structure: 126l 	length: 326 	time: 0.4267549514770508
+structure: 226d 	length: 21 	time: 0.21223998069763184
+structure: 226l 	length: 303 	time: 0.42534470558166504
+structure: 326d 	length: 118 	time: 0.2048811912536621
+structure: 426d 	length: 38 	time: 0.16423511505126953
+
+finished ./mmCIF/26/ 	time: 1.685896873474121
+
+starting ./mmCIF/27/ 
+
+structure: 127d 	length: 146 	time: 0.26784610748291016
+structure: 127l 	length: 333 	time: 0.43061089515686035
+structure: 227d 	length: 79 	time: 0.24688935279846191
+structure: 227l 	length: 290 	time: 0.44707274436950684
+structure: 327d 	length: 51 	time: 0.15328478813171387
+structure: 427d 	length: 72 	time: 0.1355140209197998
+
+finished ./mmCIF/27/ 	time: 1.6971909999847412
+
+starting ./mmCIF/28/ 
+
+structure: 128d 	length: 93 	time: 0.21329426765441895
+structure: 128l 	length: 327 	time: 0.44415998458862305
+structure: 228l 	length: 281 	time: 0.41703081130981445
+structure: 328d 	length: 101 	time: 0.2047889232635498
+structure: 428d 	length: 144 	time: 0.24293184280395508
+
+finished ./mmCIF/28/ 	time: 1.535987138748169
+
+starting ./mmCIF/29/ 
+
+structure: 129d 	length: 89 	time: 0.24260997772216797
+structure: 129l 	length: 325 	time: 0.47106099128723145
+structure: 229d 	length: 17 	time: 0.16501665115356445
+structure: 229l 	length: 290 	time: 0.42319583892822266
+structure: 329d 	length: 65 	time: 0.1965930461883545
+structure: 429d 	length: 50 	time: 0.29907894134521484
+
+finished ./mmCIF/29/ 	time: 1.8140759468078613
+
+starting ./mmCIF/2a/ 
+
+structure: 12as 	length: 861 	time: 1.4048550128936768
+
+finished ./mmCIF/2a/ 	time: 1.4110538959503174
+
+starting ./mmCIF/2c/ 
+
+structure: 12ca 	length: 344 	time: 0.6667928695678711
+structure: 32c2 	length: 435 	time: 0.8577828407287598
+
+finished ./mmCIF/2c/ 	time: 1.5311708450317383
+
+starting ./mmCIF/2e/ 
+
+structure: 12e8 	length: 1637 	time: 1.907742977142334
+
+finished ./mmCIF/2e/ 	time: 1.9149370193481445
+
+starting ./mmCIF/2g/ 
+
+structure: 12gs 	length: 601 	time: 0.9637157917022705
+structure: 22gs 	length: 731 	time: 0.9223101139068604
+
+finished ./mmCIF/2g/ 	time: 1.8968031406402588
+
+starting ./mmCIF/30/ 
+
+structure: 130d 	length: 93 	time: 0.23734593391418457
+structure: 130l 	length: 331 	time: 0.43234920501708984
+structure: 230d 	length: 28 	time: 1.4737322330474854
+structure: 230l 	length: 288 	time: 0.4222602844238281
+structure: 330d 	length: 76 	time: 0.17461895942687988
+structure: 430d 	length: 47 	time: 0.2129669189453125
+structure: 830c 	length: 705 	time: 1.1004369258880615
+
+finished ./mmCIF/30/ 	time: 4.0799171924591064
+
+starting ./mmCIF/31/ 
+
+structure: 131d 	length: 78 	time: 0.14705586433410645
+structure: 131l 	length: 338 	time: 0.5935642719268799
+structure: 231d 	length: 37 	time: 0.09981393814086914
+structure: 231l 	length: 191 	time: 0.43465280532836914
+structure: 331d 	length: 73 	time: 0.1618938446044922
+structure: 431d 	length: 138 	time: 0.2927510738372803
+
+finished ./mmCIF/31/ 	time: 1.7453382015228271
+
+starting ./mmCIF/32/ 
+
+structure: 132d 	length: 24 	time: 0.26825594902038574
+structure: 132l 	length: 207 	time: 0.3186039924621582
+structure: 232d 	length: 88 	time: 0.14671087265014648
+structure: 232l 	length: 275 	time: 0.3937540054321289
+structure: 332d 	length: 87 	time: 0.1438899040222168
+structure: 432d 	length: 102 	time: 0.1769850254058838
+
+finished ./mmCIF/32/ 	time: 1.4643340110778809
+
+starting ./mmCIF/33/ 
+
+structure: 133d 	length: 61 	time: 0.15693306922912598
+structure: 133l 	length: 202 	time: 0.4125711917877197
+structure: 233d 	length: 91 	time: 0.20257282257080078
+structure: 233l 	length: 295 	time: 0.4727160930633545
+structure: 333d 	length: 15 	time: 0.09773492813110352
+structure: 433d 	length: 100 	time: 0.20909810066223145
+
+finished ./mmCIF/33/ 	time: 1.568122148513794
+
+starting ./mmCIF/34/ 
+
+structure: 134d 	length: 25 	time: 0.30076169967651367
+structure: 134l 	length: 201 	time: 0.3173849582672119
+structure: 234d 	length: 56 	time: 0.09885501861572266
+structure: 234l 	length: 280 	time: 0.38770627975463867
+structure: 334d 	length: 85 	time: 0.18924403190612793
+structure: 434d 	length: 185 	time: 0.4037361145019531
+
+finished ./mmCIF/34/ 	time: 1.712538242340088
+
+starting ./mmCIF/35/ 
+
+structure: 135d 	length: 25 	time: 0.24313092231750488
+structure: 135l 	length: 243 	time: 0.31654977798461914
+structure: 235d 	length: 45 	time: 0.09665513038635254
+structure: 235l 	length: 309 	time: 0.39484310150146484
+structure: 335d 	length: 77 	time: 0.13128900527954102
+structure: 435d 	length: 163 	time: 0.38431692123413086
+
+finished ./mmCIF/35/ 	time: 1.5824460983276367
+
+starting ./mmCIF/36/ 
+
+structure: 136d 	length: 25 	time: 3.1839609146118164
+structure: 236d 	length: 68 	time: 0.1385500431060791
+structure: 236l 	length: 305 	time: 0.3924720287322998
+structure: 336d 	length: 88 	time: 0.16945695877075195
+structure: 436d 	length: 260 	time: 0.38504481315612793
+
+finished ./mmCIF/36/ 	time: 4.289002895355225
+
+starting ./mmCIF/37/ 
+
+structure: 137d 	length: 121 	time: 0.18026018142700195
+structure: 137l 	length: 571 	time: 0.7818760871887207
+structure: 237d 	length: 58 	time: 0.11893582344055176
+structure: 237l 	length: 311 	time: 0.42697668075561523
+structure: 337d 	length: 28 	time: 0.10056543350219727
+structure: 437d 	length: 154 	time: 0.29045605659484863
+
+finished ./mmCIF/37/ 	time: 1.9180569648742676
+
+starting ./mmCIF/38/ 
+
+structure: 138d 	length: 48 	time: 0.20676708221435547
+structure: 138l 	length: 286 	time: 0.3928108215332031
+structure: 238d 	length: 66 	time: 0.12066888809204102
+structure: 238l 	length: 300 	time: 0.39244699478149414
+structure: 338d 	length: 26 	time: 0.09478497505187988
+structure: 438d 	length: 52 	time: 0.28568506240844727
+
+finished ./mmCIF/38/ 	time: 1.5070929527282715
+
+starting ./mmCIF/39/ 
+
+structure: 139d 	length: 28 	time: 0.870337724685669
+structure: 139l 	length: 312 	time: 0.48944783210754395
+structure: 239d 	length: 43 	time: 0.11742091178894043
+structure: 239l 	length: 304 	time: 0.4142780303955078
+structure: 339d 	length: 23 	time: 0.09673094749450684
+structure: 439d 	length: 77 	time: 0.1647040843963623
+
+finished ./mmCIF/39/ 	time: 2.169196844100952
+
+starting ./mmCIF/3c/ 
+
+structure: 43c9 	length: 1086 	time: 1.9290130138397217
+structure: 43ca 	length: 1089 	time: 1.846482753753662
+
+finished ./mmCIF/3c/ 	time: 3.7940196990966797
+
+starting ./mmCIF/3g/ 
+
+structure: 13gs 	length: 607 	time: 1.0154669284820557
+
+finished ./mmCIF/3g/ 	time: 1.0201501846313477
+
+starting ./mmCIF/3p/ 
+
+structure: 13pk 	length: 2275 	time: 3.58819580078125
+
+finished ./mmCIF/3p/ 	time: 3.6006112098693848
+
+starting ./mmCIF/40/ 
+
+structure: 140d 	length: 26 	time: 0.22944188117980957
+structure: 140l 	length: 267 	time: 0.4179511070251465
+structure: 240d 	length: 92 	time: 0.1885819435119629
+structure: 240l 	length: 313 	time: 0.4232199192047119
+structure: 340d 	length: 27 	time: 0.13448095321655273
+structure: 440d 	length: 155 	time: 0.26972413063049316
+
+finished ./mmCIF/40/ 	time: 1.679922103881836
+
+starting ./mmCIF/41/ 
+
+structure: 141d 	length: 26 	time: 0.19379973411560059
+structure: 141l 	length: 275 	time: 0.4999120235443115
+structure: 241d 	length: 69 	time: 0.13327503204345703
+structure: 241l 	length: 315 	time: 0.4373798370361328
+structure: 341d 	length: 31 	time: 0.09868001937866211
+structure: 441d 	length: 88 	time: 0.14364004135131836
+
+finished ./mmCIF/41/ 	time: 1.5206310749053955
+
+starting ./mmCIF/42/ 
+
+structure: 142d 	length: 26 	time: 0.18541193008422852
+structure: 142l 	length: 271 	time: 0.40705275535583496
+structure: 242d 	length: 73 	time: 0.18514513969421387
+structure: 242l 	length: 338 	time: 0.536151647567749
+structure: 342d 	length: 26 	time: 0.10137391090393066
+structure: 442d 	length: 76 	time: 0.24933409690856934
+
+finished ./mmCIF/42/ 	time: 1.681372880935669
+
+starting ./mmCIF/43/ 
+
+structure: 143d 	length: 22 	time: 1.0501370429992676
+structure: 143l 	length: 272 	time: 0.43868589401245117
+structure: 243d 	length: 28 	time: 0.09682321548461914
+structure: 243l 	length: 307 	time: 0.43757200241088867
+structure: 343d 	length: 220 	time: 0.3513200283050537
+structure: 443d 	length: 71 	time: 0.24465107917785645
+
+finished ./mmCIF/43/ 	time: 2.6351101398468018
+
+starting ./mmCIF/44/ 
+
+structure: 144d 	length: 90 	time: 0.33304405212402344
+structure: 144l 	length: 269 	time: 0.449023962020874
+structure: 244d 	length: 633 	time: 1.0323760509490967
+structure: 244l 	length: 296 	time: 0.4539198875427246
+structure: 344d 	length: 96 	time: 0.2620811462402344
+structure: 444d 	length: 34 	time: 0.21989989280700684
+
+finished ./mmCIF/44/ 	time: 2.767396926879883
+
+starting ./mmCIF/45/ 
+
+structure: 145d 	length: 72 	time: 0.4025728702545166
+structure: 145l 	length: 240 	time: 0.6111040115356445
+structure: 245d 	length: 80 	time: 0.27097487449645996
+structure: 245l 	length: 313 	time: 0.4554581642150879
+structure: 345d 	length: 24 	time: 0.12878894805908203
+structure: 445d 	length: 25 	time: 0.23848986625671387
+
+finished ./mmCIF/45/ 	time: 2.1324470043182373
+
+starting ./mmCIF/46/ 
+
+structure: 146d 	length: 25 	time: 0.36304402351379395
+structure: 146l 	length: 265 	time: 0.45081186294555664
+structure: 246d 	length: 103 	time: 0.15687012672424316
+structure: 246l 	length: 318 	time: 0.4141218662261963
+structure: 346d 	length: 26 	time: 0.17090296745300293
+structure: 446d 	length: 109 	time: 0.30574488639831543
+
+finished ./mmCIF/46/ 	time: 1.8809878826141357
+
+starting ./mmCIF/47/ 
+
+structure: 147l 	length: 264 	time: 0.6424801349639893
+structure: 247d 	length: 34 	time: 0.19527721405029297
+structure: 247l 	length: 307 	time: 0.4571809768676758
+structure: 447d 	length: 37 	time: 0.2189798355102539
+
+finished ./mmCIF/47/ 	time: 1.5287349224090576
+
+starting ./mmCIF/48/ 
+
+structure: 148d 	length: 15 	time: 1.5284829139709473
+structure: 148l 	length: 310 	time: 0.5199806690216064
+structure: 248d 	length: 51 	time: 0.13077187538146973
+structure: 248l 	length: 306 	time: 0.4872877597808838
+structure: 348d 	length: 62 	time: 0.1673259735107422
+structure: 448d 	length: 48 	time: 0.20117592811584473
+
+finished ./mmCIF/48/ 	time: 3.055575132369995
+
+starting ./mmCIF/49/ 
+
+structure: 149d 	length: 21 	time: 2.51669979095459
+structure: 149l 	length: 202 	time: 0.4104800224304199
+structure: 249d 	length: 95 	time: 0.3873717784881592
+structure: 249l 	length: 319 	time: 0.4457869529724121
+structure: 349d 	length: 57 	time: 0.1713719367980957
+structure: 449d 	length: 38 	time: 0.2080378532409668
+
+finished ./mmCIF/49/ 	time: 4.16779088973999
+
+starting ./mmCIF/4g/ 
+
+structure: 14gs 	length: 395 	time: 0.8194890022277832
+
+finished ./mmCIF/4g/ 	time: 0.8251991271972656
+
+starting ./mmCIF/50/ 
+
+structure: 150d 	length: 153 	time: 0.24758505821228027
+structure: 150l 	length: 814 	time: 1.3314218521118164
+structure: 250d 	length: 82 	time: 0.460338830947876
+structure: 250l 	length: 308 	time: 0.4599030017852783
+
+finished ./mmCIF/50/ 	time: 2.5170087814331055
+
+starting ./mmCIF/51/ 
+
+structure: 151d 	length: 69 	time: 0.10910296440124512
+structure: 151l 	length: 200 	time: 0.40688490867614746
+structure: 251d 	length: 38 	time: 0.09079098701477051
+structure: 251l 	length: 275 	time: 0.3861088752746582
+structure: 351c 	length: 150 	time: 0.22966814041137695
+structure: 351d 	length: 49 	time: 0.1243429183959961
+structure: 451c 	length: 156 	time: 0.2332911491394043
+
+finished ./mmCIF/51/ 	time: 1.6494152545928955
+
+starting ./mmCIF/52/ 
+
+structure: 152d 	length: 61 	time: 0.13976502418518066
+structure: 152l 	length: 217 	time: 0.37810611724853516
+structure: 252d 	length: 95 	time: 0.1811671257019043
+structure: 252l 	length: 302 	time: 0.5530779361724854
+structure: 352d 	length: 676 	time: 0.7879610061645508
+structure: 452d 	length: 38 	time: 0.1386411190032959
+
+finished ./mmCIF/52/ 	time: 2.1951229572296143
+
+starting ./mmCIF/53/ 
+
+structure: 153d 	length: 73 	time: 0.2870330810546875
+structure: 153l 	length: 367 	time: 0.44152092933654785
+structure: 253d 	length: 39 	time: 0.09791803359985352
+structure: 253l 	length: 292 	time: 0.44687604904174805
+structure: 353d 	length: 182 	time: 0.23380494117736816
+structure: 453d 	length: 199 	time: 0.23548293113708496
+
+finished ./mmCIF/53/ 	time: 1.7581079006195068
+
+starting ./mmCIF/54/ 
+
+structure: 154d 	length: 36 	time: 0.11815690994262695
+structure: 154l 	length: 352 	time: 0.46601176261901855
+structure: 254d 	length: 46 	time: 0.12781691551208496
+structure: 254l 	length: 325 	time: 0.4659137725830078
+structure: 354d 	length: 153 	time: 0.2330639362335205
+structure: 454d 	length: 459 	time: 1.189089059829712
+
+finished ./mmCIF/54/ 	time: 2.6196672916412354
+
+starting ./mmCIF/55/ 
+
+structure: 155c 	length: 136 	time: 0.29775381088256836
+structure: 155l 	length: 288 	time: 0.4026820659637451
+structure: 255d 	length: 59 	time: 0.1342320442199707
+structure: 255l 	length: 315 	time: 0.4875497817993164
+structure: 355d 	length: 192 	time: 0.23232722282409668
+structure: 455d 	length: 178 	time: 0.22601699829101562
+
+finished ./mmCIF/55/ 	time: 1.7980380058288574
+
+starting ./mmCIF/56/ 
+
+structure: 156d 	length: 24 	time: 1.540003776550293
+structure: 156l 	length: 318 	time: 0.5179221630096436
+structure: 256b 	length: 383 	time: 0.62168288230896
+structure: 256d 	length: 47 	time: 0.13467884063720703
+structure: 256l 	length: 296 	time: 0.42478203773498535
+structure: 456c 	length: 430 	time: 0.8734312057495117
+structure: 456d 	length: 198 	time: 0.23998594284057617
+
+finished ./mmCIF/56/ 	time: 4.38850998878479
+
+starting ./mmCIF/57/ 
+
+structure: 157d 	length: 121 	time: 0.22686290740966797
+structure: 157l 	length: 313 	time: 0.416827917098999
+structure: 257d 	length: 34 	time: 0.123931884765625
+structure: 257l 	length: 278 	time: 0.6267728805541992
+structure: 357d 	length: 70 	time: 0.39579272270202637
+structure: 457d 	length: 96 	time: 0.27211594581604004
+
+finished ./mmCIF/57/ 	time: 2.078748941421509
+
+starting ./mmCIF/58/ 
+
+structure: 158d 	length: 97 	time: 0.2661619186401367
+structure: 158l 	length: 294 	time: 0.6556458473205566
+structure: 258d 	length: 129 	time: 0.2797539234161377
+structure: 258l 	length: 273 	time: 0.48243188858032227
+structure: 358d 	length: 60 	time: 0.2042100429534912
+structure: 458d 	length: 129 	time: 0.21571993827819824
+
+finished ./mmCIF/58/ 	time: 2.120940923690796
+
+starting ./mmCIF/59/ 
+
+structure: 159d 	length: 75 	time: 0.11852169036865234
+structure: 159l 	length: 316 	time: 0.4402320384979248
+structure: 259d 	length: 129 	time: 0.1614241600036621
+structure: 259l 	length: 246 	time: 0.48313188552856445
+structure: 359d 	length: 46 	time: 0.2688913345336914
+structure: 459d 	length: 137 	time: 0.25125980377197266
+
+finished ./mmCIF/59/ 	time: 1.7394249439239502
+
+starting ./mmCIF/5c/ 
+
+structure: 15c8 	length: 521 	time: 0.8874077796936035
+structure: 25c8 	length: 662 	time: 0.9597089290618896
+structure: 35c8 	length: 742 	time: 1.020021915435791
+
+finished ./mmCIF/5c/ 	time: 2.881196975708008
+
+starting ./mmCIF/60/ 
+
+structure: 160d 	length: 123 	time: 0.24671387672424316
+structure: 160l 	length: 308 	time: 0.5198242664337158
+structure: 260d 	length: 51 	time: 0.12412190437316895
+structure: 260l 	length: 273 	time: 0.4459190368652344
+structure: 360d 	length: 245 	time: 0.26311182975769043
+structure: 460d 	length: 217 	time: 0.37159276008605957
+
+finished ./mmCIF/60/ 	time: 1.986112117767334
+
+starting ./mmCIF/61/ 
+
+structure: 161d 	length: 81 	time: 0.16597914695739746
+structure: 161l 	length: 307 	time: 0.4118802547454834
+structure: 261d 	length: 105 	time: 0.20867681503295898
+structure: 261l 	length: 216 	time: 0.3905351161956787
+structure: 361d 	length: 261 	time: 0.32142066955566406
+structure: 461d 	length: 187 	time: 0.3656759262084961
+
+finished ./mmCIF/61/ 	time: 1.8821067810058594
+
+starting ./mmCIF/62/ 
+
+structure: 162l 	length: 299 	time: 0.414762020111084
+structure: 262l 	length: 444 	time: 0.7979598045349121
+structure: 362d 	length: 92 	time: 0.2345268726348877
+structure: 462d 	length: 294 	time: 0.4349379539489746
+
+finished ./mmCIF/62/ 	time: 1.8960652351379395
+
+starting ./mmCIF/63/ 
+
+structure: 163l 	length: 321 	time: 0.44017815589904785
+structure: 263d 	length: 86 	time: 0.20040512084960938
+structure: 363d 	length: 308 	time: 0.5546810626983643
+structure: 463d 	length: 170 	time: 0.23695802688598633
+
+finished ./mmCIF/63/ 	time: 1.4456346035003662
+
+starting ./mmCIF/64/ 
+
+structure: 164l 	length: 309 	time: 0.44213294982910156
+structure: 264d 	length: 43 	time: 0.19657421112060547
+structure: 364d 	length: 77 	time: 0.4929020404815674
+structure: 464d 	length: 185 	time: 0.408322811126709
+
+finished ./mmCIF/64/ 	time: 1.5507428646087646
+
+starting ./mmCIF/65/ 
+
+structure: 165d 	length: 76 	time: 0.18548297882080078
+structure: 165l 	length: 295 	time: 0.4214057922363281
+structure: 265d 	length: 142 	time: 0.2588820457458496
+structure: 365d 	length: 93 	time: 0.20916008949279785
+structure: 465d 	length: 37 	time: 0.11477994918823242
+
+finished ./mmCIF/65/ 	time: 1.2038600444793701
+
+starting ./mmCIF/66/ 
+
+structure: 166d 	length: 98 	time: 0.21544313430786133
+structure: 166l 	length: 297 	time: 0.47231101989746094
+structure: 266d 	length: 86 	time: 0.2286851406097412
+structure: 366d 	length: 38 	time: 0.17751812934875488
+structure: 466d 	length: 115 	time: 0.4353368282318115
+structure: 966c 	length: 296 	time: 0.5456609725952148
+
+finished ./mmCIF/66/ 	time: 2.0923421382904053
+
+starting ./mmCIF/67/ 
+
+structure: 167d 	length: 64 	time: 0.20099496841430664
+structure: 167l 	length: 372 	time: 0.7419459819793701
+structure: 267d 	length: 100 	time: 0.2683980464935303
+structure: 367d 	length: 130 	time: 0.2546219825744629
+structure: 467d 	length: 50 	time: 0.1585228443145752
+
+finished ./mmCIF/67/ 	time: 1.6396660804748535
+
+starting ./mmCIF/68/ 
+
+structure: 168d 	length: 73 	time: 0.2416081428527832
+structure: 168l 	length: 820 	time: 1.5712997913360596
+structure: 268d 	length: 137 	time: 0.2639040946960449
+structure: 368d 	length: 81 	time: 0.14643001556396484
+structure: 468d 	length: 136 	time: 0.2973461151123047
+
+finished ./mmCIF/68/ 	time: 2.5370500087738037
+
+starting ./mmCIF/69/ 
+
+structure: 169d 	length: 20 	time: 0.2678802013397217
+structure: 169l 	length: 810 	time: 1.547788143157959
+structure: 269d 	length: 121 	time: 0.26899194717407227
+structure: 369d 	length: 64 	time: 0.16025781631469727
+structure: 469d 	length: 130 	time: 0.2502481937408447
+
+finished ./mmCIF/69/ 	time: 2.512014865875244
+
+starting ./mmCIF/6g/ 
+
+structure: 16gs 	length: 717 	time: 0.9913568496704102
+
+finished ./mmCIF/6g/ 	time: 0.9957377910614014
+
+starting ./mmCIF/6p/ 
+
+structure: 16pk 	length: 997 	time: 1.027311086654663
+
+finished ./mmCIF/6p/ 	time: 1.0337910652160645
+
+starting ./mmCIF/6v/ 
+
+structure: 16vp 	length: 483 	time: 0.8151609897613525
+
+finished ./mmCIF/6v/ 	time: 0.8190300464630127
+
+starting ./mmCIF/70/ 
+
+structure: 170d 	length: 24 	time: 0.24295711517333984
+structure: 170l 	length: 177 	time: 0.3957822322845459
+structure: 270d 	length: 148 	time: 0.24910283088684082
+structure: 370d 	length: 81 	time: 0.16001200675964355
+structure: 470d 	length: 149 	time: 0.287431001663208
+
+finished ./mmCIF/70/ 	time: 1.3491806983947754
+
+starting ./mmCIF/71/ 
+
+structure: 171d 	length: 24 	time: 0.28041601181030273
+structure: 171l 	length: 162 	time: 0.33773016929626465
+structure: 271d 	length: 150 	time: 0.23785996437072754
+structure: 371d 	length: 53 	time: 0.1432511806488037
+structure: 471d 	length: 38 	time: 0.20920920372009277
+
+finished ./mmCIF/71/ 	time: 1.2199606895446777
+
+starting ./mmCIF/72/ 
+
+structure: 172d 	length: 172 	time: 0.37155818939208984
+structure: 172l 	length: 215 	time: 0.40436315536499023
+structure: 272d 	length: 64 	time: 0.1672987937927246
+structure: 372d 	length: 14 	time: 0.10342717170715332
+structure: 472d 	length: 46 	time: 0.15718293190002441
+
+finished ./mmCIF/72/ 	time: 1.2183809280395508
+
+starting ./mmCIF/73/ 
+
+structure: 173d 	length: 124 	time: 0.26312994956970215
+structure: 173l 	length: 266 	time: 0.43096399307250977
+structure: 473d 	length: 107 	time: 0.20951485633850098
+
+finished ./mmCIF/73/ 	time: 0.9137170314788818
+
+starting ./mmCIF/74/ 
+
+structure: 174l 	length: 366 	time: 0.7121431827545166
+structure: 274d 	length: 33 	time: 0.14808320999145508
+structure: 474d 	length: 82 	time: 0.3179488182067871
+
+finished ./mmCIF/74/ 	time: 1.1867051124572754
+
+starting ./mmCIF/75/ 
+
+structure: 175d 	length: 20 	time: 0.2730541229248047
+structure: 175l 	length: 405 	time: 0.7091851234436035
+structure: 275d 	length: 43 	time: 0.1212010383605957
+structure: 375d 	length: 93 	time: 0.30440497398376465
+
+finished ./mmCIF/75/ 	time: 1.4214789867401123
+
+starting ./mmCIF/76/ 
+
+structure: 176d 	length: 12 	time: 0.8952987194061279
+structure: 176l 	length: 354 	time: 0.6434729099273682
+structure: 276d 	length: 52 	time: 0.1107487678527832
+structure: 376d 	length: 28 	time: 0.13023900985717773
+structure: 476d 	length: 149 	time: 0.3757650852203369
+
+finished ./mmCIF/76/ 	time: 2.170916795730591
+
+starting ./mmCIF/77/ 
+
+structure: 177d 	length: 21 	time: 1.102607011795044
+structure: 177l 	length: 171 	time: 0.3791229724884033
+structure: 277d 	length: 51 	time: 0.12063193321228027
+structure: 377d 	length: 109 	time: 0.193190336227417
+structure: 477d 	length: 172 	time: 0.2541539669036865
+
+finished ./mmCIF/77/ 	time: 2.066354990005493
+
+starting ./mmCIF/78/ 
+
+structure: 178d 	length: 96 	time: 0.22519993782043457
+structure: 178l 	length: 172 	time: 0.4833989143371582
+structure: 278d 	length: 50 	time: 0.1310439109802246
+structure: 378d 	length: 92 	time: 0.27259111404418945
+structure: 478d 	length: 121 	time: 0.23666882514953613
+
+finished ./mmCIF/78/ 	time: 1.3621020317077637
+
+starting ./mmCIF/79/ 
+
+structure: 179d 	length: 8 	time: 0.4006321430206299
+structure: 279d 	length: 16 	time: 0.07149696350097656
+structure: 379d 	length: 49 	time: 0.267056941986084
+structure: 479d 	length: 55 	time: 0.15025591850280762
+
+finished ./mmCIF/79/ 	time: 0.8996760845184326
+
+starting ./mmCIF/7g/ 
+
+structure: 17gs 	length: 632 	time: 0.9376611709594727
+
+finished ./mmCIF/7g/ 	time: 0.9432082176208496
+
+starting ./mmCIF/7r/ 
+
+structure: 17ra 	length: 21 	time: 1.8215579986572266
+
+finished ./mmCIF/7r/ 	time: 1.8280770778656006
+
+starting ./mmCIF/80/ 
+
+structure: 180d 	length: 33 	time: 0.14005494117736816
+structure: 180l 	length: 403 	time: 0.7549281120300293
+structure: 280d 	length: 206 	time: 0.379652738571167
+structure: 380d 	length: 48 	time: 0.16904783248901367
+structure: 480d 	length: 111 	time: 0.26198387145996094
+
+finished ./mmCIF/80/ 	time: 1.7206389904022217
+
+FINISH
+dir_count:	 100
+str_count:	490
+total_time:	 219.1293020248413
